@@ -56,7 +56,7 @@ slug: "asurint-verify-every-hire"
 
 Please build the following slug generation logic yourself and do not rely upon any third party or open source implementations.
 
-The goal is to convert a website's description into a roughly equivalent url-friendly string. Invalid special characters should be removed, and words should be separated using a hyphen. Words already separated via a hyphen
+The goal is to convert a website's description into a roughly equivalent url-friendly string. Invalid special characters should be removed, and words should be separated using a hyphen. Words already separated via a hyphen should remain separated with a hyphen.
 
 The following special characters should not be removed, and instead should be replaced with their English representation:
 
